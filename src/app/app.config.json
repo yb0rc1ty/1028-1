@@ -1,9 +1,9 @@
 {
 	"appname": "1028-1",
-	"scope": "AdminUserReader BuyerReader BuyerUserReader CategoryReader CategoryAdmin",
+	"scope": "FullAccess",
 	"clientid": "1424B765-4A1B-4DEC-8349-80D2020998F1",
 	"buyerid": "451_1",
-	"catalogid": "451_1",
+	"catalogid": null,
 	"environment": "qa",
 	"anonymous": false,
 	"base": {
